@@ -130,8 +130,8 @@ gstats_11 : "**General Stats of {0}**\nSelect the buttons from below for which y
 # Play 
 
 #Play Callback 
-playcb_1 : "This is not for you! Search You Own Song."
-playcb_2 : "Getting Next Result"
+playcb_1 : "𝐓нιѕ 𝐈ѕ 𝐍οτ 𝐅οя 𝐘ου! 𝐒єαяϲн 𝐘ου 𝐎ωи 𝐒οиg."
+playcbϐ_2 : "𝐆єττιиg 𝐍єϰτ 𝐑єѕυℓτ
 
 # Channel Play
 cplay_1 : "You can play music in channels from this chat[{0}] to any channel or your chat's linked channel.\n\n**For linked channel:**\n`/{1} linked`\n\n**For any other channel:**\n`/{1} [Channel ID]`"
