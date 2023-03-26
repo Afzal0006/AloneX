@@ -74,13 +74,13 @@ admin_34 : "Failed to seek the current stream."
 # Bot 
 
 # Start
-start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
-start_2 : "Hello, My name is {0}.\n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, Resso, AppleMusic , Soundcloud etc.\n\nFeel free to add me to your groups."
-start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
-start_4 : "{0}'s Owner[{1}] has just joined your chat."
-start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
-start_6 : "❗️ **Supergroup Needed** ❗️\n\nPlease convert your **group** to **supergroup** and then add me back.\n\n**How to make supergroup?**\n✅ Make your group's chat history **visible** once."
-start_7 : "**Blacklisted Chat**\n\nYou're chat has been blacklisted by the Bot. Please ask any SudoUser to whitelist chat first. Check [Sudolist from here]({0})"
+start_1 : "ᴛʜᴀɴᴋs ғᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ ɪɴ {0}.\n{1} ᴄᴀɴ ɴᴏᴡ ᴩʟᴀʏ sᴏɴɢs ɪɴ ᴛʜɪs ᴄʜᴀᴛ.\n\nғᴏʀ ɢᴇᴛᴛɪɴɢ ᴀɴʏ ᴛʏᴩᴇ ᴏғ ʜᴇʟᴩ ʏᴏᴜ ᴄᴀɴ ᴊᴏɪɴ ᴏᴜʀ sᴜᴩᴩᴏʀᴛ ɢʀᴏᴜᴩ."
+start_2 : "━━━━━━━━━━━━━━━━━━━━━━━━\n\n💥 ʜᴇʟʟᴏ, ᴍᴇ ɪs ᴀʟᴏɴᴇ ᴜʟᴛʀᴀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ\nʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs🌼 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴄʀᴇᴀᴛᴇʀ    : [ᴀʟᴏɴᴇ](https://t.me/ll_ITZ_ALONE_ll)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ᴀʟᴏɴᴇ ɴᴇᴛᴡᴏʀᴋ](https://t.me/AloneXNetwork)┓\n┣★ sᴜᴘᴘᴏʀᴛ › : [ᴀʟᴏɴᴇ ᴄʜᴀᴛ](https://t.me/AloneXChatGroup)\n┣★ ᴅᴇᴠᴏʟᴏᴘᴇʀ › : [ᴀʟᴏɴᴇ](https://t.me/ll_ITZ_ALONE_ll)\n┣★ ʜᴇʟᴘ › : ɴᴇᴇᴅ ʜᴇʟᴘ ʀᴜɴ /help\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴀʟᴏɴᴇ](https://t.me/ll_ITZ_ALONE_ll) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━."
+start_3 : "ʜᴇʏ,\n  ᴛʜɪs ɪs {0}\n\nᴀ ғᴀsᴛ ᴀɴᴅ ᴩᴏᴡᴇʀғᴜʟ ᴍᴜsɪᴄ ᴩʟᴀʏᴇʀ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ғᴇᴀᴛᴜʀᴇs.\n\nᴀssɪsᴛᴀɴᴛ ᴜsᴇʀɴᴀᴍᴇ:- @{1}\nᴀssɪsᴛᴀɴᴛ ɪᴅ:- {2}"
+start_4 : "ᴛʜᴇ ᴏᴡɴᴇʀ ᴏғ {0}, [{1}] ᴊᴜsᴛ ᴊᴏɪɴᴇᴅ ʏᴏᴜʀ ᴄʜᴀᴛ."
+start_5 : "ᴛʜᴇ sᴜᴅᴏ ᴜsᴇʀ ᴏғ {0}, [{1}] ᴊᴜsᴛ ᴊᴏɪɴᴇᴅ ʏᴏᴜʀ ᴄʜᴀᴛ."
+start_6 : "🦸 sᴜᴘᴇʀɢʀᴏᴜᴘ ɴᴇᴇᴅᴇᴅ 🦸\n\nᴘʟᴇᴀsᴇ ᴄᴏɴᴠᴇʀᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴜᴘᴇʀɢʀᴏᴜᴘ ᴀɴᴅ ᴛʜᴇɴ ᴀᴅᴅ ᴍᴇ ʙᴀᴄᴋ.\n\nʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ sᴜᴘᴇʀɢʀᴏᴜᴘ ?\n🥱 ᴍᴀᴋᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ's ᴄʜᴀᴛ ʜɪsᴛᴏʀʏ ᴠɪsɪʙʟᴇ ᴏɴᴄᴇ."
+start_7 : "ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛ\n\nᴛʜɪs ᴄʜᴀᴛ ɪs ʙʟᴀᴄᴋʟɪsᴛ ғᴏʀ ᴜsɪɴɢ ᴛʜᴇ ʙᴏᴛ. ʀᴇǫᴜᴇsᴛ ᴀ sᴜᴅᴏ ᴜsᴇʀ ᴛᴏ ᴡʜɪᴛᴇʟɪsᴛ ʏᴏᴜʀ ᴄʜᴀᴛ, sᴜᴅᴏ ᴜsᴇʀs [ʟɪsᴛ]({0}) , ᴇʟsᴇ ғᴜ*ᴋ ᴏғғ"
 
 # Help
 help_1 : "Click on the buttons below for more information. If you're facing any problem in command you can contact my bot owner or ask in support chat.\n\nAll commands can be used with: /"
@@ -142,7 +142,7 @@ cplay_5 : "Only Channels are supported."
 cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with this group.\n**Channel's Owner:** @{1}\n\nAlternatively you can link your group to that channel and then try connnecting with `/channelplay linked`"
 
 #Play
-play_1 : "🔄 Processing Query... Please Wait!"
+play_1 : "🔄 𝐀ℓοиє 𝐏яοϲєѕѕιиg... 𝐏ℓєαѕє 𝐖αιτ 𝐁αϐγ!"
 play_2 : "**🏷Channel Play Mode**\n\n🔄 Processing Query... Please Wait!\n**Linked Channel:** {0}"
 play_3 : "Failed to Process Query!"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
