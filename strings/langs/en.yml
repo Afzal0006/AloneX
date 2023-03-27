@@ -263,21 +263,21 @@ H_B_5 : "𝐂ℓοѕє 𝐌єиυ"
 H_B_6 : "𝐒υ∂ουѕєя 𝐂οммαи∂ѕ"
 
 #PlayMode
-PM_B_1 : "DirectPlay"
-PM_B_2 : "InlineMarkup"
-PM_B_3 : "ChannelPlay"
+PM_B_1 : "𝐃ιяєϲτ𝐏ℓαγ"
+PM_B_2 : "𝐈иℓιиє𝐌αяκυρ"
+PM_B_3 : "𝐂нαииєℓ𝐏ℓαγ"
 
 #Play
-P_B_1 : "🎵 Play Audio"
-P_B_2 : "🎥 Play Video"
-P_B_3 : "🏮 Start Live Stream"
-P_B_4 : "🎵 Play Playlist"
+P_B_1 : "🎵 𝐏ℓαγ 𝐀υ∂ιο"
+P_B_2 : "🎥 𝐏ℓαγ 𝐕ι∂єο"
+P_B_3 : "🏮 𝐒ταяτ 𝐋ινє 𝐒τяєαм"
+P_B_4 : "🎵 𝐏ℓαγ 𝐏ℓαγℓιѕτ"
 
 #Playlist
-PL_B_1 : "🚀 Play Playlist"
-PL_B_2 : "✚ Playlists"
-PL_B_3 : "✚ CPanel"
-PL_B_4 : "📡 Play Mode"
+PL_B_1 : "🚀 𝐏ℓαγ 𝐏ℓαγℓιѕτ"
+PL_B_2 : "✚ 𝐏ℓαγℓιѕτѕ"
+PL_B_3 : "✚ 𝐂𝐏αиєℓ"
+PL_B_4 : "📡 𝐏ℓαγ 𝐌ο∂є"
 PL_B_5 : "🔄 Del Whole Playlist"
 PL_B_6 : "↗️ Delete Playlist"
 PL_B_7 : "❗️ Yes, I'm sure. Delete it"
