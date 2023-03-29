@@ -36,16 +36,16 @@ auth_7 : "**Authorised Users List[AUL]:**\n\n"
 auth_8 : "┗ Added By:-"
 
 # PLUGINS - Admins
-admin_1 : "𝐌υѕιϲ 𝐈ѕ 𝐀ℓяєα∂γ 𝐏αυѕє∂."
-admin_2 : "🎧 𝐕οιϲєϲнατ 𝐏αυѕє∂ 𝐁γ {}!"
-admin_3 : "𝐌υѕιϲ 𝐈ѕ 𝐀ℓяєα∂γ 𝐑єѕυмє∂."
-admin_4 : "🎧 𝐕οιϲєϲнατ 𝐑єѕυмє∂ 𝐁γ {}!"
-admin_5 : "𝐌υѕιϲ 𝐈ѕ 𝐀ℓяєα∂γ 𝐌υτє∂."
-admin_6 : "🎧 𝐕οιϲєϲнατ 𝐌υτє∂ 𝐁γ {}!"
-admin_7 : "𝐌υѕιϲ 𝐈ѕ 𝐀ℓяєα∂γ 𝐔имυτє∂."
-admin_8 : "🎧 𝐕οιϲєϲнατ 𝐔имυτє∂ 𝐁γ {}!"
-admin_9 : "🎧 𝐕οιϲєϲнατ 𝐄и∂/𝐒τορρє∂ 𝐁γ {}!"
-admin_10 : "🎧 𝐕οιϲєϲнατ 𝐒κιρρє∂ 𝐁γ {}!. 𝐍ο 𝐌οяє 𝐌υѕιϲ 𝐈и 𝐐υєυє."
+admin_1 : "Music is already Paused."
+admin_2 : "🎧 Voicechat Paused by {}!"
+admin_3 : "Music is already resumed."
+admin_4 : "🎧 Voicechat Resumed by {}!"
+admin_5 : "Music is already muted."
+admin_6 : "🎧 Voicechat Muted by {}!"
+admin_7 : "Music is already unmuted."
+admin_8 : "🎧 Voicechat Unmuted by {}!"
+admin_9 : "🎧 Voicechat End/Stopped by {}!"
+admin_10 : "🎧 Voicechat Skipped by {}!. No More Music in Queue."
 admin_11 : "Error while changing stream to **{0}**\n\nPlease use /skip again."
 admin_12 : "Unable to skip to a specific track because of enabled loop play. Please disable loop play via `/loop disable` to use this feature."
 admin_13 : "Please use numeric numbers for specific tracks, like 1, 2 or 4 etc"
@@ -70,6 +70,7 @@ admin_31 : "Bot is not able to seek due to high duration given. You need to seek
 admin_32 : "Please Wait... Seeking ongoing stream."
 admin_33 : "Successfully Seeked Stream to {0} Mins"
 admin_34 : "Failed to seek the current stream."
+
 
 # Bot 
 
@@ -130,8 +131,8 @@ gstats_11 : "**General Stats of {0}**\nSelect the buttons from below for which y
 # Play 
 
 #Play Callback 
-playcb_1 : "𝐓нιѕ 𝐈ѕ 𝐍οτ 𝐅οя 𝐘ου! 𝐒єαяϲн 𝐘ου 𝐎ωи 𝐒οиg."
-playcbϐ_2 : "𝐆єττιиg 𝐍єϰτ 𝐑єѕυℓτ
+playcb_1 : "This is not for you! Search You Own Song."
+playcb_2 : "Getting Next Result"
 
 # Channel Play
 cplay_1 : "You can play music in channels from this chat[{0}] to any channel or your chat's linked channel.\n\n**For linked channel:**\n`/{1} linked`\n\n**For any other channel:**\n`/{1} [Channel ID]`"
