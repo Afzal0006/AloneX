@@ -276,17 +276,17 @@ P_B_3 : "🏮 𝐒ταяτ 𝐋ινє 𝐒τяєαм"
 P_B_4 : "🎵 𝐏ℓαγ 𝐏ℓαγℓιѕτ"
 
 #Playlist
-PL_B_1 : "🚀 𝐏ℓαγ 𝐏ℓαγℓιѕτ"
-PL_B_2 : "✚ 𝐏ℓαγℓιѕτѕ"
-PL_B_3 : "✚ 𝐂𝐏αиєℓ"
-PL_B_4 : "📡 𝐏ℓαγ 𝐌ο∂є"
-PL_B_5 : "🔄 𝐃єℓ 𝐖нοℓє 𝐏ℓαγℓιѕτ"
-PL_B_6 : "↗️ 𝐃єℓєτє 𝐏ℓαγℓιѕτ"
-PL_B_7 : "❗️ 𝐘єѕ, 𝐈'м 𝐒υяє. 𝐃єℓєτє 𝐈τ"
-PL_B_8 : "🔢 𝐏ℓαγ 𝐓ορ 10"
-PL_B_9 : "🤖 𝐏ℓαγ 𝐆ℓοϐαℓ 𝐓ορ 10 𝐓яαϲκѕ"
-PL_B_10 : "🏘 𝐏ℓαγ 𝐆яουρ'𝐒 𝐓ορ 10 𝐓яαϲκѕ"
-PL_B_11 : "👤 𝐏ℓαγ 𝐏єяѕοиαℓ 𝐓ορ 10 𝐓яαϲκѕ"
+PL_B_1 : "🚀 Play Playlist"
+PL_B_2 : "✚ Playlists"
+PL_B_3 : "✚ CPanel"
+PL_B_4 : "📡 Play Mode"
+PL_B_5 : "🔄 Del Whole Playlist"
+PL_B_6 : "↗️ Delete Playlist"
+PL_B_7 : "❗️ Yes, I'm sure. Delete it"
+PL_B_8 : "🔢 Play Top 10"
+PL_B_9 : "🤖 Play Global Top 10 Tracks"
+PL_B_10 : "🏘 Play Group's Top 10 Tracks"
+PL_B_11 : "👤 Play Personal Top 10 Tracks"
 
 #Settings
 ST_B_1 : "🔊 𝐀υ∂ 𝐐υαℓιτγ"
@@ -318,9 +318,9 @@ ST_B_26 : "🗑 𝐂οммαи∂ 𝐂ℓєαи"
 ST_B_27 : "🧑‍🚀 𝐒υggєѕτιοи 𝐌ο∂є"
 
 #Song
-SG_B_1 : "↗️ 𝐎ρєи 𝐏яινατє 𝐂нατ"
-SG_B_2 : "🔊 𝐀υ∂ιο"
-SG_B_3 : "🎥 𝐕ι∂єο"
+SG_B_1 : "↗️ Open Private Chat"
+SG_B_2 : "🔊 Audio"
+SG_B_3 : "🎥 Video"
 
 #Stats
 SA_B_1 : "📢 Top 10 Chat"
