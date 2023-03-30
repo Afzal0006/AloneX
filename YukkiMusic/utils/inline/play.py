@@ -42,7 +42,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text=_["PL_B_2"], url=f"https://t.me/AloneXNetwork"
+                text=_["PL_B_2"], url=f"https://t.me/AloneXAssociation"
             ),
             InlineKeyboardButton(
                 text=_["PL_B_3"],
@@ -87,7 +87,7 @@ def stream_markup(_, videoid, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["PL_B_2"], url=f"https://t.me/AloneXNetwork"
+                text=_["PL_B_2"], url=f"https://t.me/AloneXAssociation"
             ),
             InlineKeyboardButton(
                 text=_["PL_B_3"],
