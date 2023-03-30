@@ -65,10 +65,10 @@ GIT_TOKEN = getenv("GIT_TOKEN", "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")
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/AloneXNetwork"
+    "SUPPORT_CHANNEL", "https://t.me/AloneXAssociation"
 )  # Example:- https://t.me/TheYukki
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/AloneXChatGroup"
+    "SUPPORT_GROUP", "https://t.me/AlonesHeaven"
 )  # Example:- https://t.me/YukkiSupport
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
