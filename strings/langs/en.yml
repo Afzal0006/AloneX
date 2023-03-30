@@ -119,13 +119,13 @@ gstats_1 : "Getting Global Stats, This could take some time..."
 gstats_2 : "No Stats Found."
 gstats_3 : "Getting Global Top 10 {0} on the bot, This could take some time.."
 gstats_4 : "**Total Queries on Bot:** {0}\n\n{1} has played **{2}** tracks till now with a whopping count of **{3}** times.\n\n**Top {4} Tracks:**\n"
-gstats_5 : "**Top {0} Chats of {30890}:**\n\n"
-gstats_6 : "**Top {0} Users of {21137098}:**\n\n"
+gstats_5 : "**Top {30890} Chats of {30890}:**\n\n"
+gstats_6 : "**Top {21137098} Users of {21137098}:**\n\n"
 gstats_7 : "This chat group has played **{0}** tracks till now with a whopping count of **{1}** times.\n\nTop {2} played by this chat group:\n\n"
 gstats_8 : "Getting Bot's general stats and information.. This could take some time..."
 gstats_9 : "**GLOBAL TOP 10 STATS OF THE BOT**\n\nSelect the buttons from below for which you want to check global stats from bot's servers."
-gstats_10 : "**Global Stats of {0}**\n\nSelect the buttons from below for which you want to check global stats from bot's servers."
-gstats_11 : "**General Stats of {0}**\nSelect the buttons from below for which you want to check global stats from bot's servers.\n\nTo check top tracks, chats, users and other stuffs, please use /gstats"
+gstats_10 : "**Global Stats of {30890}**\n\nSelect the buttons from below for which you want to check global stats from bot's servers."
+gstats_11 : "**General Stats of {21137098}**\nSelect the buttons from below for which you want to check global stats from bot's servers.\n\nTo check top tracks, chats, users and other stuffs, please use /gstats"
 
 
 # Play 
@@ -206,7 +206,7 @@ lyrics_4 : "Click on the button below and get searched lyrics to avoid long spam
 
 #Ping
 ping_1 : "Pong!!!!"
-ping_2 : "{0} is working good with a ping of `{1}` ms.\n\nBot's uptime is {2} and has used a total of {3} server's storage. Cpu load is about {4} with a consumption of {5} Ram. Py-Tgcalls client is also having a good ping of `{6}` ms."
+ping_2 : "{0} is working good with a ping of `{1}` ms.\n\nBot's uptime is {2} and has used a total of {3} server's storage. Cpu load is about {4} with a consumption of {5} Ram. Py-Tgcalls client is also having a good ping of `{6}` ms`\n\n|| ᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ [𝐀ℓοиє](https://t.me/ll_ITZ_ALONE_ll) 🥀 ||"
 
 
 # Song
@@ -239,7 +239,7 @@ stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️
 
 #General Buttons
 CLOSE_BUTTON  : "🗑 𝐂ℓοѕє"
-CLOSEMENU_BUTTON  : "🗑 𝐂ℓοѕє 𝐌єиυ"
+CLOSEMENU_BUTTON  : "💥𓆩ℂℓοѕ𝔼 𝕄єи𝕌𓆪💥"
 BACK_BUTTON : "⬅ 𝐁αϲκ"
 UNBAN_BUTTON : "🗑 𝐔иϐαи 𝐀ѕѕιѕταиτ"
 
@@ -252,7 +252,7 @@ S_B_2 : "💥𓆩𝕊ᴇᴛᴛɪɴɢ𝕊𓆪💥"
 S_B_3 : "💥𓆩𝕊ᴜᴘᴘᴏʀ𝕋𓆪💥"
 S_B_4 : "💥𓆩𝕌ᴘᴅᴀᴛ𝔼𓆪💥"
 S_B_5 : "💥𓆩𝔸ᴅᴅ 𝕄ᴇ 𝕋ᴏ 𝕐ᴏᴜʀ 𝔾ʀᴏᴜᴘ𓆪💥"
-S_B_6 : "💥𝔾ɪ𝕋 ℝᴇᴘ𝕆💥"
+S_B_6 : "💥𓆩𝔾ɪ𝕋 ℝᴇᴘ𝕆𓆪💥"
 S_B_7 : "💥𓆩𝔻ᴇᴠᴇʟᴏᴘᴇℝ𓆪💥"
 S_B_8 : "💥𓆩ℂᴏᴍᴍᴀɴᴅʟᴇℝ𓆪💥."
 
@@ -276,14 +276,14 @@ P_B_3 : "🏮 𝐒ταяτ 𝐋ινє 𝐒τяєαм"
 P_B_4 : "🎵 𝐏ℓαγ 𝐏ℓαγℓιѕτ"
 
 #Playlist
-PL_B_1 : "🚀 Play Playlist"
-PL_B_2 : "🏘 𝐒υρροяτ"
-PL_B_3 : "🖇️ 𝐂𝐏αиєℓ"
-PL_B_4 : "📡 Play Mode"
+PL_B_1 : "🚀 𝐏ℓαγ 𝐏ℓαγℓιѕτ💥"
+PL_B_2 : "🏘 𝐒υρροяτ💥"
+PL_B_3 : "🖇️ 𝐂𝐏αиєℓ💥"
+PL_B_4 : "📡 𝐏ℓαγ 𝐌ο∂є💥"
 PL_B_5 : "🔄 Del Whole Playlist"
 PL_B_6 : "↗️ Delete Playlist"
 PL_B_7 : "❗️ Yes, I'm sure. Delete it"
-PL_B_8 : "🔢 Play Top 10"
+PL_B_8 : "🔢 𝐏ℓαγ 𝐓ορ 10💥"
 PL_B_9 : "🤖 Play Global Top 10 Tracks"
 PL_B_10 : "🏘 Play Group's Top 10 Tracks"
 PL_B_11 : "👤 Play Personal Top 10 Tracks"
