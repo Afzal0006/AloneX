@@ -42,11 +42,11 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text=_["PL_B_2"],
-                callback_data=f"add_playlist {videoid}",
+                text=_["PL_B_2"], url=f"https://t.me/AloneXNetwork
             ),
             InlineKeyboardButton(
-                text=_["PL_B_3"], url=f"https://t.me/AloneXNetwork",
+                text=_["PL_B_3"],
+                callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
         ],
         [
@@ -69,7 +69,8 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text=_["PL_B_3"], url=f"https://t.me/AloneXNetwork"
+                text=_["PL_B_3"],
+                callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
                 text=_["CLOSEMENU_BUTTON"], callback_data="close"
@@ -86,11 +87,11 @@ def stream_markup(_, videoid, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["PL_B_2"],
-                callback_data=f"add_playlist {videoid}",
+                text=_["PL_B_2"], url=f"https://t.me/AloneXNetwork
             ),
             InlineKeyboardButton(
-                text=_["PL_B_3"], url=f"https://t.me/AloneXNetwork"
+                text=_["PL_B_3"],
+                callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
         ],
         [
@@ -106,7 +107,8 @@ def telegram_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["PL_B_3"], url=f"https://t.me/AloneXNetwork"
+                text=_["PL_B_3"],
+                callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
                 text=_["CLOSEMENU_BUTTON"], callback_data="close"
