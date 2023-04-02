@@ -143,7 +143,7 @@ cplay_5 : "Only Channels are supported."
 cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with this group.\n**Channel's Owner:** @{1}\n\nAlternatively you can link your group to that channel and then try connnecting with `/channelplay linked`"
 
 #Play
-play_1 : "**» 𝐀ℓοиє 𝐏яοϲєѕѕιиg 𝐅οя 𝐘ου 𝐌οι 𝐋υϐ 🌹🎙️🕹️🥀🌷 ᴡᴀɪᴛ...**"
+play_1 : "**» 𝐀ℓοиє🥀𝐏яοϲєѕѕιиg🌷𝐖αιτ🌹𝐌єяι🥀𝐉ααи🌷𝐏ℓαγιиg🎙️𝐅οя🕹️𝐔н...😘**"
 play_2 : "**🏷Channel Play Mode**\n\n🔄 𝐀ℓοиє 𝐏яοϲєѕѕιиg... 𝐏ℓєαѕє 𝐖αιτ 𝐁αϐγ!\n**Linked Channel:** {0}"
 play_3 : "Failed to Process Query!"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
