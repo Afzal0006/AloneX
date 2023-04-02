@@ -222,11 +222,11 @@ song_10 : "Failed to upload on telegram from servers."
 song_11 : "Uploading Started\n\nUploading speed could be slow. Please hold on.."
 
 # Tools - Queue
-queue_1 : "Please Wait..Fetching Queue.."
+queue_1 : "» ᴩʟᴇᴀsᴇ ᴡᴀɪᴛ..."
 queue_2 : "Queued List is empty. No tracks found"
 queue_3 : "<u>**Queued Tracks:</u>**  [Checkout More Queued Tracks From Here]({0})"
-queue_4 : "⏳ Added to Queue at **#{0}\n\n💡Title:** {1}\n**⏱Duration:** {2}\n👤**Added By:** {3}"
-queue_5 : "Only one track inside queue, Please add some more to check list"
+queue_4 : "**✨ ᴀᴅᴅᴇᴅ ᴛᴏ ǫᴜᴇᴜᴇ ᴀᴛ #{0}**\n\n❄ **ᴛɪᴛʟᴇ :** {1}\n⏱ **ᴅᴜʀᴀᴛɪᴏɴ :** {2} ᴍɪɴᴜᴛᴇs\n🥀 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :** {3}"
+queue_5 : "ᴏɴʟʏ ᴏɴᴇ ᴛʀᴀᴄᴋ ɪs ɪɴ ǫᴜᴇᴜᴇ, ᴀᴅᴅ sᴏᴍᴇ ᴍᴏʀᴇ ᴛʀᴀᴄᴋs ɪɴ ǫᴜᴇᴜᴇ ᴛᴏ ᴄʜᴇᴄᴋ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇ."
 
 # All Streaming Lines
 stream_1 : "📡 **Started Streaming** 💡\n\n👤**Requested By:** {0}\n🔦**Information: **[Here]({1})"
