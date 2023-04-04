@@ -1,8 +1,8 @@
 <img src="https://telegra.ph//file/99ec3f2d0a9ec149551a4.jpg" align="right" width="200" height="200"/>
 
-# ──「 ᴀʟᴏɴᴇ ダ ᴍᴜsɪᴄ 」── <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+#ᴀʟᴏɴᴇ ダ ᴍᴜsɪᴄ <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[ᴀʟᴏɴᴇ ダ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/AloneXMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[──「 ᴀʟᴏɴᴇ ダ ᴍᴜsɪᴄ ʙᴏᴛ 」──](https://t.me/AloneXMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
