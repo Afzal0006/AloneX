@@ -1,12 +1,12 @@
 name : 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
 
 # General Strings
-general_1 : "Reply to a user's message or give username/user_id."
-general_2 : "Error! Wrong Usage of Command."
-general_3 : "Some **exception occured** while processing your query.\n\nException Type:- {0}"
-general_4 : "You're an anonymous admin in this chat group!\nRevert back to User Account From Admin Rights."
-general_5 : "You need to be admin with manage voice chat rights to perform this action."
-general_6 : "Bot isn't streaming on voice chat."
+general_1 : "ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜsᴇʀ's ᴍᴇssᴀɢᴇ ᴏʀ ɢɪᴠᴇ ᴜsᴇʀɴᴀᴍᴇ/ᴜsᴇʀ_ɪᴅ."
+general_2 : "ᴇʀʀᴏʀ ! ᴡʀᴏɴɢ ᴜsᴀɢᴇ ᴏꜰ ᴄᴏᴍᴍᴀɴᴅ ᴍʏ ʟᴏᴠᴇ ​🌹​."
+general_3 : "sᴏᴍᴇ **ᴇxᴄᴇᴘᴛɪᴏɴ ᴏᴄᴄᴜʀᴇᴅ** ᴡʜɪʟᴇ ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ǫᴜᴇʀʏ.\n\nᴇxᴄᴇᴘᴛɪᴏɴ ᴛʏᴘᴇ:- {0}"
+general_4 : "ʏᴏᴜ'ʀᴇ ᴀɴ ᴀɴᴏɴʏᴍᴏᴜs ᴀᴅᴍɪɴ ɪɴ ᴛʜɪs ᴄʜᴀᴛ ɢʀᴏᴜᴘ !\nʀᴇᴠᴇʀᴛ ʙᴀᴄᴋ ᴛᴏ ᴜsᴇʀ ᴀᴄᴄᴏᴜɴᴛ ꜰᴏʀ ᴀᴅᴍɪɴ ʀɪɢʜᴛs."
+general_5 : "ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ʙᴇ ᴀᴅᴍɪɴ ᴡɪᴛʜ **ᴍᴀɴᴀɢᴇ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ** ʀɪɢʜᴛs ᴛᴏ ᴘᴇʀꜰᴏʀᴍ ᴛʜɪs ᴀᴄᴛɪᴏɴ​."
+general_6 : "ʙᴏᴛ ɪsɴ'ᴛ sᴛʀᴇᴀᴍɪɴɢ ᴏɴ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ."
 
 # Classes - Telegram.py
 tg_1 : "Bot is **overloaded** with downloads right now.\n\n**Try After:** {0} (__expected time__)"
@@ -115,24 +115,23 @@ set_cb_8 : "Getting back.."
 ustats_1 : "No User Stats Found."
 ustats_2 : "Greetings!, You have played **{0}** tracks till now with a whopping count of **{1}** times.\n\nTop {2} played by you:\n\n"
 
-gstats_1 : "Getting Global Stats, This could take some time..."
-gstats_2 : "No Stats Found."
-gstats_3 : "Getting Global Top 10 {0} on the bot, This could take some time.."
-gstats_4 : "**Total Queries on Bot:** {0}\n\n{1} has played **{2}** tracks till now with a whopping count of **{3}** times.\n\n**Top {4} Tracks:**\n"
-gstats_5 : "**Top {30890} Chats of {30890}:**\n\n"
-gstats_6 : "**Top {21137098} Users of {21137098}:**\n\n"
-gstats_7 : "This chat group has played **{0}** tracks till now with a whopping count of **{1}** times.\n\nTop {2} played by this chat group:\n\n"
-gstats_8 : "Getting Bot's general stats and information.. This could take some time..."
-gstats_9 : "**GLOBAL TOP 10 STATS OF THE BOT**\n\nSelect the buttons from below for which you want to check global stats from bot's servers."
-gstats_10 : "**Global Stats of {30890}**\n\nSelect the buttons from below for which you want to check global stats from bot's servers."
-gstats_11 : "**General Stats of {21137098}**\nSelect the buttons from below for which you want to check global stats from bot's servers.\n\nTo check top tracks, chats, users and other stuffs, please use /gstats"
-
+gstats_1 : "ɢᴇᴛᴛɪɴɢ ɢʟᴏʙᴀʟ sᴛᴀᴛs, ᴛʜɪs ᴄᴏᴜʟᴅ ᴛᴀᴋᴇ sᴏᴍᴇ ᴛɪᴍᴇ..."
+gstats_2 : "ɴᴏ ɢʟᴏʙᴀʟ sᴛᴀᴛs ꜰᴏᴜɴᴅ."
+gstats_3 : "ɢᴇᴛᴛɪɴɢ ɢʟᴏʙᴀʟ ᴛᴏᴘ 10 {0} ᴏꜰ ᴛʜᴇ ʙᴏᴛ, ᴛʜɪs ᴄᴏᴜʟᴅ ᴛᴀᴋᴇ sᴏᴍᴇ ᴛɪᴍᴇ..."
+gstats_4 : "**ᴛᴏᴛᴀʟ ǫᴜᴇʀɪᴇs ᴏɴ ʙᴏᴛ:** {0}\n\n{1} ʜᴀs ᴘʟᴀʏᴇᴅ **{2}** ᴛʀᴀᴄᴋs ᴛɪʟʟ ɴᴏᴡ ᴡɪᴛʜ ᴀ ᴡʜᴏᴘᴘɪɴɢ ᴄᴏᴜɴᴛ ᴏꜰ **{3}** ᴛɪᴍᴇs.\n\n**ᴛᴏᴘ {4} ᴛʀᴀᴄᴋs:**\n"
+gstats_5 : "**ᴛᴏᴘ {0} ᴄʜᴀᴛs ᴏꜰ {1}:**\n\n"
+gstats_6 : "**ᴛᴏᴩ {0} ᴜsᴇʀs ᴏғ {1}:**\n\n"
+gstats_7 : "ᴛʜɪs ᴄʜᴀᴛ ɢʀᴏᴜᴘ ʜᴀs ᴘʟᴀʏᴇᴅ **{0}** ᴛʀᴀᴄᴋs ᴛɪʟʟ ɴᴏᴡ ᴡɪᴛʜ ᴀ ᴡʜᴏᴘᴘɪɴɢ ᴄᴏᴜɴᴛ ᴏꜰ **{1}** ᴛɪᴍᴇs.\n\nᴛᴏᴘ {2} ᴘʟᴀʏᴇᴅ ʙʏ ᴛʜɪs ᴄʜᴀᴛ ɢʀᴏᴜᴘ:\n\n"
+gstats_8 : "ɢᴇᴛᴛɪɴɢ ʙᴏᴛ's ɢᴇɴᴇʀᴀʟ sᴛᴀᴛs ᴀɴᴅ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ.. ᴛʜɪs ᴄᴏᴜʟᴅ ᴛᴀᴋᴇ sᴏᴍᴇ ᴛɪᴍᴇ..."
+gstats_9 : "**ɢʟᴏʙᴀʟ ᴛᴏᴘ 10 sᴛᴀᴛs ᴏꜰ ᴛʜᴇ ʙᴏᴛ ᴍʏ ʟᴏᴠᴇ 🌹**\n\nsᴇʟᴇᴄᴛ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ꜰʀᴏᴍ ʙᴇʟᴏᴡ ꜰᴏʀ ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴄʜᴇᴄᴋ ɢʟᴏʙᴀʟ sᴛᴀᴛs ꜰʀᴏᴍ ʙᴏᴛ's sᴇʀᴠᴇʀs."
+gstats_10 : "**ɢʟᴏʙᴀʟ sᴛᴀᴛs ᴏғ {0}**\n\nsᴇʟᴇᴄᴛ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ғʀᴏᴍ ʙᴇʟᴏᴡ ғᴏʀ ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴄʜᴇᴄᴋ ɢʟᴏʙᴀʟ sᴛᴀᴛs ғʀᴏᴍ ʙᴏᴛ's sᴇʀᴠᴇʀs."
+gstats_11 : "**ɢᴇɴᴇʀᴀʟ sᴛᴀᴛs ᴏғ {0}**\nsᴇʟᴇᴄᴛ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ғʀᴏᴍ ʙᴇʟᴏᴡ ғᴏʀ ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴄʜᴇᴄᴋ ɢʟᴏʙᴀʟ sᴛᴀᴛs ғʀᴏᴍ ʙᴏᴛ's sᴇʀᴠᴇʀs.\n\nᴜsᴇ /gstats ᴛᴏ ᴄʜᴇᴄᴋ ᴛᴏᴩ ᴛʀᴀᴄᴋs, ᴄʜᴀᴛs, ᴜsᴇʀs ᴀɴᴅ ᴍᴀɴʏ ᴏᴛʜᴇʀ sᴛᴜғғs."
 
 # Play 
 
 #Play Callback 
-playcb_1 : "This is not for you! Search You Own Song."
-playcb_2 : "Getting Next Result"
+playcb_1 : "ᴛʜɪs ɪs ɴᴏᴛ ꜰᴏʀ ʏᴏᴜ ᴍʏ ʟᴏᴠᴇ ​🌹 ! sᴇᴀʀᴄʜ ʏᴏᴜ ᴏᴡɴ."
+playcb_2 : "ɢᴇᴛᴛɪɴɢ ɴᴇxᴛ ʀᴇsᴜʟᴛ..."
 
 # Channel Play
 cplay_1 : "You can play music in channels from this chat[{0}] to any channel or your chat's linked channel.\n\n**For linked channel:**\n`/{1} linked`\n\n**For any other channel:**\n`/{1} [Channel ID]`"
@@ -145,23 +144,22 @@ cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with t
 #Play
 play_1 : "**» 𝐀ℓοиє🥀𝐏яοϲєѕѕιиg🌷𝐖αιτ🌹𝐌єяι🥀𝐉ααи🌷𝐏ℓαγιиg🎙️𝐅οя🕹️𝐔н...😘**"
 play_2 : "**🏷Channel Play Mode**\n\n🔄 𝐀ℓοиє 𝐏яοϲєѕѕιиg... 𝐏ℓєαѕє 𝐖αιτ 𝐁αϐγ!\n**Linked Channel:** {0}"
-play_3 : "Failed to Process Query!"
-play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
-play_5 : "Failed to process audio file.\n\nAudio File Size Should Be Less Than 100 mb"
-play_6 : "**Duration Limit Exceeded**\n\n**Allowed Duration: **{0} minute(s)\n**Received Duration:** {1} hour(s)"
-play_7 : "Sorry! Bot only allows limited number of video calls due to CPU overload issues. Many other chats are using video call right now. Try switching to audio or try again later"
-play_8 : "Not A Valid Video File Extension!\n\n**Supported Formats:** {0}"
-play_9 : "Video File Size Should Be Less Than 1 GiB"
-play_10 : "**Youtube Playlist Feature**\n\nSelect the Mode in which you want to play whole Youtube Playlist"
-play_11 : "📎Title: **{0}\n\n⏳Duration:** {1} Mins"
-play_12 : "**Spotify Play Mode**\n\nRequested By:- {0}"
-play_13 : "**Apple Playlists**\n\nRequested By:- {0}"
-play_14 : "**Unable to verify the URL.**\nBot wonders if this url belongs to any of the following platforms: Youtube, AppleMusic, Spotify, Resso and Soundcloud.\n\nYou can use /stream for M3u8 or Remote Links."
-play_15 : "**Live Stream Detected**\n\nSystems have detected your track link as live stream. Want to play live stream ?"
-play_16 : "Failed to fetch track details. Try playing any other."
-play_17 : "Unable to play this type of spotify query!\n\nI can only play spotify tracks, albums, artists and playlists"
-play_18 : "**No Active Voice Chat Found**\n\nTo use force play, there must be an active voice chat going on in your group. **Force Play** stops the playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue."
-
+play_3 : "ꜰᴀɪʟᴇᴅ ᴛᴏ ᴘʀᴏᴄᴇss ǫᴜᴇʀʏ !"
+play_4 : "🖇 **ᴀᴅᴍɪɴs ᴏɴʟʏ ᴘʟᴀʏ**\nᴏɴʟʏ ᴀᴅᴍɪɴs ᴀɴᴅ ᴀᴜᴛʜ ᴜsᴇʀs ᴄᴀɴ ᴘʟᴀʏ ᴍᴜsɪᴄ ɪɴ ᴛʜɪs ɢʀᴏᴜᴘ.\n\nᴄʜᴀɴɢᴇ ᴍᴏᴅᴇ ᴠɪᴀ /playmode ᴀɴᴅ ɪꜰ ʏᴏᴜ'ʀᴇ ᴀʟʀᴇᴀᴅʏ ᴀᴅᴍɪɴ, ʀᴇʟᴏᴀᴅ ᴀᴅᴍɪɴᴄᴀᴄʜᴇ ᴠɪᴀ /admincache or /reload"
+play_5 : "ꜰᴀɪʟᴇᴅ ᴛᴏ ᴘʀᴏᴄᴇss ᴀᴜᴅɪᴏ ꜰɪʟᴇ.\n\nᴀᴜᴅɪᴏ ꜰɪʟᴇ sɪᴢᴇ sʜᴏᴜʟᴅ ʙᴇ ʟᴇss ᴛʜᴀɴ 100 ᴍʙ."
+play_6 : "**ᴅᴜʀᴀᴛɪᴏɴ ʟɪᴍɪᴛ ᴇxᴄᴇᴇᴅᴇᴅ**\n\n**ᴀʟʟᴏᴡᴇᴅ ᴅᴜʀᴀᴛɪᴏɴ:** {0} ᴍɪɴᴜᴛᴇs\n**ʀᴇᴄᴇɪᴠᴇᴅ ᴅᴜʀᴀᴛɪᴏɴ:** {1} ᴍɪɴᴜᴛᴇs"
+play_7 : "sᴏʀʀʏ ! ʙᴏᴛ ᴏɴʟʏ ᴀʟʟᴏᴡs ʟɪᴍɪᴛᴇᴅ ɴᴜᴍʙᴇʀ ᴏꜰ ᴠɪᴅᴇᴏ ᴄᴀʟʟs ᴅᴜᴇ ᴛᴏ ᴄᴘᴜ ᴏᴠᴇʀʟᴏᴀᴅ ɪssᴜᴇs. ᴍᴀɴʏ ᴏᴛʜᴇʀ ᴄʜᴀᴛs ᴀʀᴇ ᴜsɪɴɢ ᴠɪᴅᴇᴏ ᴄᴀʟʟ ʀɪɢʜᴛ ɴᴏᴡ. ᴛʀʏ sᴡɪᴛᴄʜɪɴɢ ᴛᴏ ᴀᴜᴅɪᴏ ᴏʀ ᴛʀʏ ᴀɢᴀɪɴ ʟᴀᴛᴇʀ."
+play_8 : "ɴᴏᴛ ᴀ ᴠᴀʟɪᴅ ᴠɪᴅᴇᴏ ꜰɪʟᴇ ᴇxᴛᴇɴsɪᴏɴ ᴍʏ ʟᴏᴠᴇ ​🌹 !\n\n**sᴜᴘᴘᴏʀᴛᴇᴅ ꜰᴏʀᴍᴀᴛs:** {0}"
+play_9 : "ᴠɪᴅᴇᴏ ꜰɪʟᴇ sɪᴢᴇ sʜᴏᴜʟᴅ ʙᴇ ʟᴇss ᴛʜᴀɴ 1 ɢɪʙ"
+play_10 : "**ʏᴏᴜᴛᴜʙᴇ ᴘʟᴀʏʟɪsᴛ ꜰᴇᴀᴛᴜʀᴇ**\n\nsᴇʟᴇᴄᴛ ᴛʜᴇ ᴍᴏᴅᴇ ɪɴ ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴘʟᴀʏ ᴡʜᴏʟᴇ ʏᴏᴜᴛᴜʙᴇ ᴘʟᴀʏʟɪsᴛ"
+play_11 : "🌹**ᴛɪᴛʟᴇ:** {0}\n\n🕕**ᴅᴜʀᴀᴛɪᴏɴ:** {1} ᴍɪɴs"
+play_12 : "**sᴘᴏᴛɪꜰʏ ᴘʟᴀʏʟɪsᴛs**\n\nʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:- {0}"
+play_13 : "**ᴀᴘᴘʟᴇ ᴘʟᴀʏʟɪsᴛs**\n\nʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:- {0}"
+play_14 : "**ᴜɴᴀʙʟᴇ ᴛᴏ ᴠᴇʀɪꜰʏ ᴛʜᴇ ᴜʀʟ.**\nʙᴏᴛ ᴡᴏɴᴅᴇʀs ɪꜰ ᴛʜɪs ᴜʀʟ ʙᴇʟᴏɴɢs ᴛᴏ ᴀɴʏ ᴏꜰ ᴛʜᴇ ꜰᴏʟʟᴏᴡɪɴɢ ᴘʟᴀᴛꜰᴏʀᴍs: ʏᴏᴜᴛᴜʙᴇ, ᴀᴘᴘʟᴇ ᴍᴜsɪᴄ, sᴘᴏᴛɪꜰʏ, ʀᴇssᴏ ᴀɴᴅ sᴏᴜɴᴅᴄʟᴏᴜᴅ.\n\nʏᴏᴜ ᴄᴀɴ ᴜsᴇ /stream ꜰᴏʀ ᴍ3ᴜ8 ᴏʀ ʀᴇᴍᴏᴛᴇ ʟɪɴᴋs."
+play_15 : "**ʟɪᴠᴇ sᴛʀᴇᴀᴍ ᴅᴇᴛᴇᴄᴛᴇᴅ**\n\nsʏsᴛᴇᴍs ʜᴀᴠᴇ ᴅᴇᴛᴇᴄᴛᴇᴅ ʏᴏᴜʀ ᴛʀᴀᴄᴋ ʟɪɴᴋ ᴀs ʟɪᴠᴇ sᴛʀᴇᴀᴍ. ᴡᴀɴᴛ ᴛᴏ ᴘʟᴀʏ ʟɪᴠᴇ sᴛʀᴇᴀᴍ ?"
+play_16 : "ꜰᴀɪʟᴇᴅ ᴛᴏ ꜰᴇᴛᴄʜ ᴛʀᴀᴄᴋ ᴅᴇᴛᴀɪʟs, ᴍᴀʏʙᴇ ᴛʜᴀᴛ ᴛʀᴀᴄᴋ ɪs ᴀɢᴇ ʀᴇsᴛʀɪᴄᴛᴇᴅ ᴏɴ ʏᴏᴜᴛᴜʙᴇ. ᴛʀʏ ᴘʟᴀʏɪɴɢ ᴀɴʏ ᴏᴛʜᴇʀ."
+play_17 : "ᴜɴᴀʙʟᴇ ᴛᴏ ᴩʟᴀʏ ᴛʜɪs ᴛʏᴩᴇ ᴏғ sᴩᴏᴛɪғʏ ǫᴜᴇʀʏ !\n\n ɪ ᴄᴀɴ ᴏɴʟʏ ᴩʟᴀʏ sᴩᴏᴛɪғʏ ᴛʀᴀᴄᴋs, ᴀʟʙᴜᴍs, ᴀʀᴛɪsᴛs ᴀɴᴅ ᴩʟᴀʏʟɪsᴛs"
+play_18 : "**ɴᴏ ᴀᴄᴛɪᴠᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ**\n\nᴛᴏ ᴜsᴇ ғᴏʀᴄᴇ ᴩʟᴀʏ, ᴛʜᴇʀᴇ ᴍᴜsᴛ ʙᴇ ᴀɴ ᴀᴄᴛɪᴠᴇ ᴠᴏɪᴄᴇᴄʜᴀᴛ."
 
 #Playlist
 playlist_1 : "**Usage:** /play [𝐌υѕιϲ 𝐍αмє 𝐎я 𝐘ουτυϐє 𝐋ιиκ 𝐎я 𝐑єρℓγ 𝐓ο 𝐀υ∂ιο]\n\nIf you want to play Bot's Server Playlist! Press the button below."
