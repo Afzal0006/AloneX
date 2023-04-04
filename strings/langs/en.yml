@@ -222,25 +222,25 @@ song_10 : "Failed to upload on telegram from servers."
 song_11 : "Uploading Started\n\nUploading speed could be slow. Please hold on.."
 
 # Tools - Queue
-queue_1 : "» ᴩʟᴇᴀsᴇ ᴡᴀɪᴛ..."
-queue_2 : "Queued List is empty. No tracks found"
-queue_3 : "<u>**Queued Tracks:</u>**  [Checkout More Queued Tracks From Here]({0})"
-queue_4 : "**✨ ᴀᴅᴅᴇᴅ ᴛᴏ ǫᴜᴇᴜᴇ ᴀᴛ #{0}**\n\n❄ **ᴛɪᴛʟᴇ :** {1}\n⏱ **ᴅᴜʀᴀᴛɪᴏɴ :** {2} ᴍɪɴᴜᴛᴇs\n🥀 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :** {3}"
-queue_5 : "ᴏɴʟʏ ᴏɴᴇ ᴛʀᴀᴄᴋ ɪs ɪɴ ǫᴜᴇᴜᴇ, ᴀᴅᴅ sᴏᴍᴇ ᴍᴏʀᴇ ᴛʀᴀᴄᴋs ɪɴ ǫᴜᴇᴜᴇ ᴛᴏ ᴄʜᴇᴄᴋ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇ."
+queue_1 : "𝐏ℓєαѕє 𝐖αιτ..𝐅єτϲнιиg 𝐐υєυє.."
+գυєυє_2 : "𝐐υєυє∂ 𝐋ιѕτ 𝐈ѕ 𝐄мρτγ. 𝐍ο 𝐓яαϲκѕ 𝐅ουи∂"
+queue_3 : "<u>**𝐐υєυє∂ 𝐓яαϲκѕ:</u>**  [𝐂нєϲκουτ 𝐌οяє 𝐐υєυє∂ 𝐓яαϲκѕ 𝐅яοм 𝐇єяє]({0})"
+queue_4 : "⏳ 𝐀∂∂є∂ 𝐓ο 𝐐υєυє 𝐀τ **#{0}\n\n💡𝐓ιτℓє:** {1}\n**⏱𝐃υяατιοи:** {2}\n👤**𝐀∂∂є∂ 𝐁γ:** {3}"
+queue_5 : "οиℓγ οиє τяαϲκ ιиѕι∂є գυєυє, ρℓєαѕє α∂∂ ѕοмє мοяє το ϲнєϲκ ℓιѕτ"
 
 # All Streaming Lines
-stream_1 : "📡 **Started Streaming** 💡\n\n👤**Requested By:** {0}\n🔦**Information: **[Here]({1})"
-stream_2 : "📡 **Started Streaming via URL ** 💡\n\n👤**Requested By:** {0}"
-stream_3 : "📡 **Started Streaming** 💡\n\n**🏷Title:** {0}\n⌛️**Duration**: {1}\n👤**Requested By:** {2}"
-stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️**Duration**: {2}\n👤**Requested By:** {3}"
+stream_1 : "📡 **𝐒ταяτє∂ 𝐒τяєαмιиg** 💡\n\n👤**𝐑єգυєѕτє∂ 𝐁γ:** {0}\n🔦**Information: **[Here]({1})"
+stream_2 : "📡 **𝐒ταяτє∂ 𝐒τяєαмιиg 𝐕ια 𝐔яℓ ** 💡\n\n👤**𝐑єգυєѕτє∂ 𝐁γ:** {0}"
+stream_3 : "📡 **𝐒ταяτє∂ 𝐒τяєαмιиg** 💡\n\n**🏷Title:** {0}\n⌛️**𝐃υяατιοи**: {1}\n👤**𝐑єգυєѕτє∂ 𝐁γ:** {2}"
+stream_4 : "📡 **𝐒ταяτє∂ 𝐒τяєαмιиg** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️**𝐃υяατιοи**: {2}\n👤**𝐑єգυєѕτє∂ 𝐁γ:** {3}"
 
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "🗑 𝐂ℓοѕє"
+CLOSE_BUTTON  : "💥𓆩ℂℓοѕ𝔼𓆪💥"
 CLOSEMENU_BUTTON  : "💥𓆩ℂℓοѕ𝔼 𝕄єи𝕌𓆪💥"
 BACK_BUTTON : "⬅ 𝐁αϲκ"
-UNBAN_BUTTON : "🗑 𝐔иϐαи 𝐀ѕѕιѕταиτ"
+UNBAN_BUTTON : "💥𓆩𝕌иϐαℕ 𝔸ѕѕιѕταи𝕋𓆪💥"
 
 #Lyrics
 L_B_1 : "🚀 𝐂нєϲκουτ 𝐋γяιϲѕ 𝐍οω"
@@ -264,9 +264,9 @@ H_B_5 : "💥𓆩ℂℓοѕ𝔼 𝕄єи𝕌𓆪💥"
 H_B_6 : "💥𓆩𝕊υ∂ουѕєℝ𓆪💥"
 
 #PlayMode
-PM_B_1 : "𝐃ιяєϲτ𝐏ℓαγ"
-PM_B_2 : "𝐈иℓιиє𝐌αяκυρ"
-PM_B_3 : "𝐂нαииєℓ𝐏ℓαγ"
+PM_B_1 : "💥𝐃ιяєϲτ𝐏ℓαγ💥"
+PM_B_2 : "💥𝐈иℓιиє𝐌αяκυρ💥"
+PM_B_3 : "💥𝐂нαииєℓ𝐏ℓαγ💥"
 
 #Play
 P_B_1 : "🎵 𝐏ℓαγ 𝐀υ∂ιο"
